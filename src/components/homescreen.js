@@ -30,7 +30,7 @@ const HomeScreen = () => {
             fetchUrl = {requests.fetchActionMovies}
             />
              <Row
-            title = "Comedy MOvies"
+            title = "Comedy Movies"
             fetchUrl = {requests.fetchComedyMovies}
             />
              <Row
